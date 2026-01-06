@@ -1,4 +1,4 @@
-## Hi, I’m Julia 👋
+## Hi, I’m Julia!
 
 I’m a software engineer who enjoys working with others to solve interesting problems. I mostly work in the JavaScript ecosystem and care a lot about building maintainable, human-centered software that improves people’s lives.
 
