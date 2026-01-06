@@ -13,7 +13,7 @@ https://www.offthehappypath.dev/
 - Golang
 
 ### 🧠 Personal projects
-My current favorite personal project is a **facial tension tracker** designed to help reduce migraine frequency by increasing awareness of facial muscle tension.
+My favorite personal project that I’m currently building is a facial tension tracker designed to help reduce migraine frequency by alerting me to facial muscle tension while I’m working at my computer.
 
 ### 🤝 Connect
 LinkedIn: https://www.linkedin.com/in/juliabreeden/
